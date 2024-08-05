@@ -1,4 +1,4 @@
-# 👋 Bonjour et Bienvenue Dans notre projet:
+# 👋 Bonjour et Bienvenue
 ## NEO4J - CYPHER - JAVA.
 ## ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) - ![Cypher](https://img.shields.io/badge/Cypher-4B0082?style=for-the-badge&logo=neo4j&logoColor=white) - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
